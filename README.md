@@ -46,5 +46,5 @@ Friends-blog uses a number of frameworks to work properly:
 
 ## Installation
 
-Friends-blog requires [Node.js](https://nodejs.org/) v10+ to run.
+Leave-application requires [Node.js](https://nodejs.org/) v10+ to run.
 

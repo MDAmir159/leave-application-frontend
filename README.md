@@ -77,7 +77,7 @@ Want to contribute? Great!
 ```
 - Open a pull request
 
-#Screenshots
+# Screenshots
 <br/>
 
 <p align="center">

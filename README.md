@@ -81,7 +81,7 @@ Want to contribute? Great!
 <br/>
 
 <p align="center">
-  <img src="github_images/login.png" width="80%" align="center" style="border-radius:10px"/>
+  <img src="github_images/login.jpg" width="80%" align="center" style="border-radius:10px"/>
 </p>
 <h5 align="center">
   Login page

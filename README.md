@@ -77,6 +77,60 @@ Want to contribute? Great!
 ```
 - Open a pull request
 
+#Screenshots
+<br/>
+
+<p align="center">
+  <img src="github_images/login.png" width="80%" align="center" style="border-radius:10px"/>
+</p>
+<h5 align="center">
+  Login page
+</h5>
+<br/>
+<br/>
+<p align="center">
+  <img src="github_images/faculty_window.jpg" width="80%" align="center" style="border-radius:2%"/>
+</p>
+<h5 align="center">
+  Faculty window
+</h5>
+<br/>
+<br/>
+<p align="center">
+  <img src="github_images/hr_window.jpg" width="80%" align="center" style="border-radius:2%"/>
+</p>
+<h5 align="center">
+  Human Resource's window
+</h5>
+<br/>
+<br/>
+<p align="center">
+  <img src="github_images/registrar.jpg" width="80%" align="center" style="border-radius:2%"/>
+</p>
+<h5 align="center">
+  Registrar's portal
+</h5>
+<br/>
+<br/>
+<p align="center">
+  <img src="github_images/vc.jpg" width="80%" align="center" style="border-radius:2%"/>
+</p>
+<h5 align="center">
+  Vice Chancellor's portal
+</h5>
+<br/>
+<br/>
+<p align="center">
+  <img src="github_images/application.jpg" width="80%" align="center" style="border-radius:2%"/>
+</p>
+<h5 align="center">
+  Faculty/Office staff's application window
+</h5>
+
+
+<br/>
+<br/>
+
 # Server Side
 
 Here is the link to the server side repository

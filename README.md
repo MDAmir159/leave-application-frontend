@@ -123,7 +123,6 @@ Want to contribute? Great!
 <p align="center">
   <img src="github_images/application.jpg" width="80%" align="center" style="border-radius:2%"/>
 </p>
-</br>
 <h5 align="center">
   Faculty/Office staff's application window
 </h5>
